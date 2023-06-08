@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syeda Anoosha, a student of Software Engineering at MUET currently in my second year.
-- 👀 I’m interested in learning software technologies like AI, Machine Learning, Data Science, Python and Web Development.
-- 🌱 I’m currently learning Java Language and have learnt C++.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Web Dev.
 - 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/syeda-anoosha-s004/
 
 <!---
