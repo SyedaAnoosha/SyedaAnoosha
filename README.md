@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=SyedaAnoosha&color=blueviolet&label=Profile+Views)
+<br />
+
 - 👋 Hi, I’m Syeda Anoosha, a student of Software Engineering at MUET currently in my second year.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Dev.
