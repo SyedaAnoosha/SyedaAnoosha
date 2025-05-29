@@ -3,9 +3,7 @@
 ### 👋 Hi, I’m Syeda Anoosha  
 I'm a final-year Software Engineering student at MUET with a strong interest in backend and AI development.
 
-- 💻 Experienced in Go and FastAPI for backend development  
-- 🤖 Currently exploring large language models and their real-world applications  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/syeda-anoosha/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/syeda-anoosha/)
 
 ---
 
