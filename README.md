@@ -1,7 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=SyedaAnoosha&color=blueviolet&label=Profile+Views)
-
-### 👋 Hi, I’m Syeda Anoosha  
-I'm a final-year Software Engineering student at MUET with a strong interest in backend and AI development.
+### 👋 Hi, I’m Syeda Anoosha Iqtidar
+Software Engineer focused on backend systems and full-stack apps. I build APIs, work with databases, and ship practical solutions using Django, FastAPI, Go, and React. Interested in ML-backed features and clean system design.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/syeda-anoosha/)
 
